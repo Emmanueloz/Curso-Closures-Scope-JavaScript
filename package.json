@@ -1,0 +1,20 @@
+{
+  "name": "curso-closures-scope-javascript",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Closures y Scope en JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanueloz/Curso-Closures-Scope-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmanueloz/Curso-Closures-Scope-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Emmanueloz/Curso-Closures-Scope-JavaScript#readme"
+}
